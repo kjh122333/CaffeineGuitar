@@ -97,7 +97,7 @@ window.fbAsyncInit = function() {
     version    : 'v2.4'
   });
 
-  // $('#facebook_sign_in').click(function(e) {
+  // $('#book_sign_in').click(function(e) {
   //   e.preventDefault();
   //   FB.login(function(response) {
   //     if (response.authResponse)
